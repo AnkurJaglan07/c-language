@@ -1,0 +1,14 @@
+input agent sallary from user and calculate the bonus
+cinditions are
+salary>=15000 bonus is 5% of salary
+salary<15000 but age >=32 bonus is 3% of salary
+salary<15000 but age <32 bonus is 2% of salary
+
+
+write a program to find largest and second largest in array
+
+
+find arm
+
+153
+(1)3+(5)3+(3)3=
